@@ -21,8 +21,17 @@ The paper is available <a href="https://arxiv.org/abs/1905.06598">here</a>
 
 ### Citing
 ```
-}
-```
+@article{henter2020moglow,
+  author = {Henter, Gustav Eje and Alexanderson, Simon and Beskow, Jonas},
+  doi = {10.1145/3414685.3417836},
+  journal = {ACM Transactions on Graphics},
+  number = {4},
+  pages = {236:1--236:14},
+  publisher = {ACM},
+  title = {{M}o{G}low: {P}robabilistic and controllable motion synthesis using normalising flows},
+  volume = {39},
+  year = {2020}
+}```
 
   
 
