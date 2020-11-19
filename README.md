@@ -3,7 +3,7 @@ Gustav Eje Henter\*, Simon Alexanderson\* and Jonas Beskow
 
 All from KTH Royal Institute of Technology
 
-\*) Joint first Authors
+\*) Joint first authors
 
 ---
 ![image](media/teaser.jpg)
