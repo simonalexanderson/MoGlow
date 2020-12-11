@@ -21,13 +21,6 @@ For more information, please [see our introduction video](https://youtu.be/pe-YT
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pe-YTvavbtA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Paper
-The paper is available <a href="https://arxiv.org/abs/1905.06598">here</a>
-
-### Code and Data
-- <a href="https://github.com/simonalexanderson/StyleGestures">Code for reproducing the results</a>.
- 
-
 ### Citing
 ```
 {% raw %}
