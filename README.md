@@ -33,7 +33,8 @@ Evaluations show that MoGlow produces convincingly natural motion and approaches
 * [Another follow-up work published at IVA 2020](https://simonalexanderson.github.io/IVA2020/) combines the method with spontaneous speech synthesis to create speech and full-body gestures from text input alone.
 
 ### Citing
-```{% raw %}@article{henter2020moglow,
+{% raw %}
+@article{henter2020moglow,
   author = {Henter, Gustav Eje and Alexanderson, Simon and Beskow, Jonas},
   doi = {10.1145/3414685.3417836},
   journal = {ACM Transactions on Graphics},
@@ -43,4 +44,5 @@ Evaluations show that MoGlow produces convincingly natural motion and approaches
   title = {{M}o{G}low: {P}robabilistic and controllable motion synthesis using normalising flows},
   volume = {39},
   year = {2020}
-}{% endraw %}```
+}
+{% endraw %}
