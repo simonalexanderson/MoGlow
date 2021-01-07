@@ -41,7 +41,7 @@ Evaluations show that MoGlow produces convincingly natural motion and approaches
   number = {4},
   pages = {236:1--236:14},
   publisher = {ACM},
-  title = {{M}o{G}low: {P}robabilistic and controllable motion synthesis using normalising flows},
+  title = {Mo{G}low: {P}robabilistic and controllable motion synthesis using normalising flows},
   volume = {39},
   year = {2020}
 }
